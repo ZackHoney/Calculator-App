@@ -13,7 +13,7 @@ html {
 
 body{
     align-items: center;
-    background: linear-gradient(320deg, purple, orange, red);
+    background: linear-gradient(320deg, purple, red);
     display: flex;
     font-family: 'Dosis', sans-serif;
     font-display: swap;
